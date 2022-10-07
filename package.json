@@ -1,0 +1,26 @@
+{
+  "name": "wu1-cv-indianeen",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Indianeen/wu1-cv-Indianeen.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Indianeen/wu1-cv-Indianeen/issues"
+  },
+  "homepage": "https://github.com/Indianeen/wu1-cv-Indianeen#readme",
+  "dependencies": {
+    "@11ty/eleventy": "^1.0.2",
+    "@11ty/eleventy-img": "^2.0.1",
+    "npm-run-all": "^4.1.5",
+    "sass": "^1.55.0"
+  }
+}
