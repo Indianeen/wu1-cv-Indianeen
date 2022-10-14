@@ -4,11 +4,31 @@
         "title": "Home"
     },
     {
-        "url": "",
-        "title": ""
+        "url": "/contactinfo",
+        "title": "Contact information"
     },
     {
-        "url": "",
-        "title": ""
+        "url": "/personalinfo",
+        "title": "Personal information"
+    },
+    {
+        "url": "/profexp",
+        "title": "Professional experience (missions)"
+    },
+    {
+        "url": "/ed",
+        "title": "Education"
+    },
+    {
+        "url": "/skill",
+        "title": "Skills"
+    },
+    {
+        "url": "/lang",
+        "title": "Languages"
+    },
+    {
+        "url": "/ref",
+        "title": "References"
     }
 ]

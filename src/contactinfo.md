@@ -2,8 +2,6 @@
 layout: base.njk
 title: CV John-117
 ---
-
-
 # John-117
 One-man army
 
@@ -11,22 +9,4 @@ One-man army
 
 ## Contact information 
 
-
-
-## Personal information
-
-
-## Professional experience (missions)
-
-
-## Education
-
-
-## Skills
-
-
-## Languages
-
-
-## References
 

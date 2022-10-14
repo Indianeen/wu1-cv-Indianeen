@@ -43,3 +43,35 @@ Här redovisar du dina slutsatser, erfarenheter och lärdomar. Reflektera över 
 Vad kan vidareutvecklas och finns det utrymme att bygga vidare på projektet.
 
 Jag är egentligen inte ens nära att bli klar men för att det skall bli så enkelt som möjligt behöver jag nog köra igenom relaterade delar av spelet igen, för att lättare kunna avgöra vad som är aktuellt, samt att skapa och skriva ett CSS-dokument
+
+
+
+navigation.json[,
+    {
+        "url": ".contactinfo",
+        "title": "Contact information"
+    },
+    {
+        "url": ".personalinfo",
+        "title": "Personal information"
+    },
+    {
+        "url": ".profexp",
+        "title": "Professional experience (missions)"
+    },
+    {
+        "url": ".ed",
+        "title": "Education"
+    },
+    {
+        "url": ".skill",
+        "title": "Skills"
+    },
+    {
+        "url": ".lang",
+        "title": "Languages"
+    },
+    {
+        "url": ".ref",
+        "title": "References"
+    }]
