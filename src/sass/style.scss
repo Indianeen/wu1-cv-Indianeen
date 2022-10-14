@@ -16,7 +16,7 @@ nav > ul {
 }
 
 picture > img {
-    display: block;
-    max-width: 100%;
+    display: grid;
+    max-width: 30%;
     height: auto;
 }
