@@ -12,7 +12,7 @@ One-man army
 ## Professional experience (missions)
 
 
-            2558
+    2558
 
 * **Battle of Installation 00, UNSC Marine, Installation 00**
 
@@ -29,7 +29,7 @@ One-man army
     Destroying the Covenant holy city High Charity
 
 
-            2557
+    2557
 
 * **Battle of Installation 05, UNSC Marine, Grave Mind, Installation 05**
 
@@ -42,7 +42,7 @@ One-man army
         Follow Prophet of Truth
 
 
-            2552
+    2552
 
 * **Battle of Earth, UNSC Marine, The solar system (Earth)**
 
@@ -57,7 +57,7 @@ One-man army
     Follow Prophet of Regret
 
 
-            2552
+    2552
 
 * **Battle of Installation 04, UNSC Marine, Halo Installation 04**
 

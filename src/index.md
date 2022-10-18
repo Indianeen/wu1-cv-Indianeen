@@ -11,38 +11,33 @@ One-man army
 
 ## Contact information 
 
-Phone: +2525-117 25 11
-
-Email: spartan.john.117@navy.mcpo.unsc
-
-Twitter: @MasterChief117
+ '|' 
+-------------------------|----------
+||
+Phone: | +2525-117 25 11 
+Email: | spartan.john.117@navy.mcpo.unsc
+Twitter: | @MasterChief117
 
 
 ## Personal information
-
-Birth date: March 7, 2511
-
-Homeworld: Eridanus II
-
-Gender: Male
-
-Length with armor: 218
-
-Weight with armor: 451.3 kg
-
-Length without armor: 208.3 cm
-
-Weight without armor: 130 kg
-
-Rank: Master Chief Petty Officer
-
-Spartan Tag: 117
+'|' 
+-------------------------|----------
+||
+Birth date: | March 7, 2511
+Homeworld: | Eridanus II
+Gender: | Male
+Length with armor: | 218
+Weight with armor: | 451.3 kg
+Length without armor: | 208.3 cm
+Weight without armor: | 130 kg
+Rank: | Master Chief Petty Officer
+Spartan Tag: | 117
 
 
 ## Professional experience (missions)
 
 
-            2558
+    2558
 
 * **Battle of Installation 00, UNSC Marine, Installation 00**
 
@@ -59,7 +54,7 @@ Spartan Tag: 117
     Destroying the Covenant holy city High Charity
 
 
-            2557
+    2557
 
 * **Battle of Installation 05, UNSC Marine, Grave Mind, Installation 05**
 
@@ -72,7 +67,7 @@ Spartan Tag: 117
         Follow Prophet of Truth
 
 
-            2552
+    2552
 
 * **Battle of Earth, UNSC Marine, The solar system (Earth)**
 
@@ -87,7 +82,7 @@ Spartan Tag: 117
     Follow Prophet of Regret
 
 
-            2552
+    2552
 
 * **Battle of Installation 04, UNSC Marine, Halo Installation 04**
 

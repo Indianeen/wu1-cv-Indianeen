@@ -4,7 +4,7 @@ $base-size: 1rem;
 
 
 body {
-    max-width: min(80ch, 100vw - $base-size);
+    max-width: min(80rem, 100vw - $base-size);
     margin-inline: auto;
 }
 

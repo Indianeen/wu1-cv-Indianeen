@@ -9,3 +9,11 @@ One-man army
 
 ## References
 
+**SCPO Franklin Mendez** - Trainer and mentor 
+
+**Samuel-034** - Friend & brother in arms  (K.I.A.)
+
+**Cortana (AI)** - Friend & partner      (Corrupted & destroyed)
+
+**Thel ‘Vadam** - Ally / Friend
+
