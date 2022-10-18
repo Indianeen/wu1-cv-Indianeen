@@ -9,4 +9,8 @@ One-man army
 
 ## Contact information 
 
+Phone: +2525-117 25 11
 
+Email: spartan.john.117@navy.mcpo.unsc
+
+Twitter: @MasterChief117
