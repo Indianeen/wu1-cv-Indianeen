@@ -37,70 +37,70 @@ Spartan Tag: | 117
 ## Professional experience (missions)
 
 
-    2558
+``2558``
 
 * **Battle of Installation 00, UNSC Marine, Installation 00**
 
-    Locating the Cartographer
+    - Locating the Cartographer
 
-    Attack and destroy Barrier Towers
+    - Attack and destroy Barrier Towers
 
-    Executing Prophet of Truth
+    - Executing Prophet of Truth
 
-    Deactivating the Halo Array.
+    - Deactivating the Halo Array.
 
-    Recovering Cortana
+    - Recovering Cortana
 
-    Destroying the Covenant holy city High Charity
+    - Destroying the Covenant holy city High Charity
 
-
-    2557
+``2557``
 
 * **Battle of Installation 05, UNSC Marine, Grave Mind, Installation 05**
 
-    Stop the covenant from firing the halo
+    - Stop the covenant from firing the halo
 
-        Assassinating Prophet of Regret
+        - Assassinating Prophet of Regret
 
-        Locating the Index
+        - Locating the Index
 
-        Follow Prophet of Truth
+        - Follow Prophet of Truth
 
 
-    2552
+``2552``
 
 * **Battle of Earth, UNSC Marine, The solar system (Earth)**
 
-    Protecting Earth
+    - Protecting Earth
 
-    Capturing and disarming antimatter bomb
+    - Capturing and disarming antimatter bomb
 
-    Returning the bomb to the Covenant (Destroying the assult carrier Day of Jubilation)
+    - Returning the bomb to the Covenant (Destroying the assult carrier Day of Jubilation)
 
-    Destroying Scarab
+    - Destroying Scarab
 
-    Follow Prophet of Regret
+    - Follow Prophet of Regret
 
 
-    2552
+``2552``
 
 * **Battle of Installation 04, UNSC Marine, Halo Installation 04**
 
-    Protecting the artificial intelligence Cortana from the Covenant
+    - Protecting the artificial intelligence Cortana from the Covenant
 
-    Rescuing survivors
+    - Rescuing survivors
 
-    Explore and understand the ring
+    - Explore and understand the ring
 
-    Fight back the Flood
+    - Fight back the Flood
 
-    Rescuing Captain Keyes
+    - Rescuing Captain Keyes
 
-    Destroying Halo before it fires
+    - Destroying Halo before it fires
 
 
 ## Education
-
+> **Military training & education** <p>
+>*Elysium City Primary Education Facility Number 119*
 
 ## Skills
 
